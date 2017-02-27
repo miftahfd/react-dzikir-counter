@@ -4,7 +4,13 @@
   "description": "My first React Js component, simple dzikir counter",
   "main": "src/main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
+  },
+  "babel": {
+    "presets": [
+      "es2015",
+      "react"
+    ]
   },
   "repository": {
     "type": "git",
