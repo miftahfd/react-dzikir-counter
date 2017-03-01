@@ -42,7 +42,7 @@
   "description": "My first React Js component, simple dzikir counter",
   "main": "src/main.js",
   "scripts": {
-    "start": "webpack"
+    "build": "webpack"
   },
   "babel": {
     "presets": [
