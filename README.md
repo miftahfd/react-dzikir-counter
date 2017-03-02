@@ -1,9 +1,11 @@
 # React Simple Dzikir Counter
+
 My first React Js component, simple dzikir counter
 
 [**DEMO**](http://react-dzikir-counter.herokuapp.com/)
 
-# Usage
+## Usage
+
 1. Clone this repo
 2. Install dependencies
 	```
@@ -18,6 +20,11 @@ My first React Js component, simple dzikir counter
 	node server.js
 	```
 
-# My Contact
+## My Contact
+
 * Email: [muh.miftah.firdaus@gmail.com](mailto:muh.miftah.firdaus@gmail.com)
 + Facebook: [Muhammad Miftah Firdaus](https://fb.com/miftahfd)
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
