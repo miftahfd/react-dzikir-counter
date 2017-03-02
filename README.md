@@ -27,4 +27,4 @@ My first React Js component, simple dzikir counter
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT)
+[MIT](http://opensource.org/licenses/MIT/)
