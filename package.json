@@ -1,48 +1,10 @@
-// {
-//   "name": "react-dzikir-counter",
-//   "version": "1.0.0",
-//   "description": "My first React Js component, simple dzikir counter",
-//   "main": "src/main.js",
-//   "scripts": {
-//     "build": "webpack",
-//     "start": 
-//   },
-//   "babel": {
-//     "presets": [
-//       "es2015",
-//       "react"
-//     ]
-//   },
-//   "repository": {
-//     "type": "git",
-//     "url": "git+https://github.com/miftahfd/react-dzikir-counter.git"
-//   },
-//   "author": "Muhammad Miftah Firdaus",
-//   "license": "MIT",
-//   "bugs": {
-//     "url": "https://github.com/miftahfd/react-dzikir-counter/issues"
-//   },
-//   "homepage": "https://github.com/miftahfd/react-dzikir-counter#readme",
-//   "dependencies": {
-//     "react": "^15.4.2",
-//     "react-dom": "^15.4.2"
-//   },
-//   "devDependencies": {
-//     "babel-core": "^6.23.1",
-//     "babel-loader": "^6.3.2",
-//     "babel-preset-es2015": "^6.22.0",
-//     "babel-preset-react": "^6.23.0",
-//     "webpack-dev-server": "^2.4.1"
-//   }
-// }
-
 {
   "name": "react-dzikir-counter",
   "version": "1.0.0",
   "description": "My first React Js component, simple dzikir counter",
-  "main": "src/main.js",
+  "main": "/src/main.js",
   "scripts": {
-    "build": "webpack"
+    "start": "node server.js"
   },
   "babel": {
     "presets": [
@@ -61,6 +23,7 @@
   },
   "homepage": "https://github.com/miftahfd/react-dzikir-counter#readme",
   "dependencies": {
+    "express": "^4.14.1",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },
