@@ -4,7 +4,7 @@
   "description": "My first React Js component, simple dzikir counter",
   "main": "/src/main.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.prod.js"
   },
   "babel": {
     "presets": [
